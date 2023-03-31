@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Medicare/static/css/main.a2c72706.css",
+    "main.js": "/Medicare/static/js/main.eb5d6d74.js",
+    "static/js/787.b5bfac4d.chunk.js": "/Medicare/static/js/787.b5bfac4d.chunk.js",
+    "index.html": "/Medicare/index.html",
+    "main.a2c72706.css.map": "/Medicare/static/css/main.a2c72706.css.map",
+    "main.eb5d6d74.js.map": "/Medicare/static/js/main.eb5d6d74.js.map",
+    "787.b5bfac4d.chunk.js.map": "/Medicare/static/js/787.b5bfac4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c72706.css",
+    "static/js/main.eb5d6d74.js"
+  ]
+}
