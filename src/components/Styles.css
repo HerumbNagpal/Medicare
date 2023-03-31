@@ -1,0 +1,268 @@
+body {
+  /* background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20200703/ourmid/pngtree-travel-guide-hangzhou-article-flat-style-cute-background-design-image_350129.jpg'); */
+  background-size: cover;
+}
+
+.navbar {
+  padding: 3rem 10rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.headings {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  color: blue;
+}
+.intro {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5rem;
+}
+.squareIntro {
+  width: 40rem;
+  height: 40rem;
+  border-radius: 20px;
+  background-color: rgb(207, 207, 255);
+}
+.welcome {
+  font-size: 30px;
+  font-weight: bold;
+}
+.bestIntro {
+  font-size: 50px;
+  font-weight: bolder;
+  color: rgb(0, 83, 155);
+}
+.introIntro {
+  font-size: 25px;
+}
+.left-intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.1rem;
+  padding: 1rem 2rem;
+}
+.btnIntro {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.services {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 5rem;
+}
+.headingServices {
+  font-size: 50px;
+  font-style: bolder;
+  color: rgb(0, 83, 155);
+}
+.cardsServices {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8rem;
+}
+.descServices {
+  font-size: 20px;
+}
+.card {
+  width: 15rem;
+  height: 20rem;
+  background: aliceblue;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.card:hover img {
+  filter: brightness(0) invert(1);
+}
+.card:hover {
+  background: rgb(0, 83, 155);
+  color: aliceblue;
+}
+
+.innovation {
+  padding: 5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.rightI {
+  flex: 1;
+  gap: 2rem;
+}
+
+.headingI {
+  font-size: 50px;
+  font-style: bolder;
+  color: rgb(0, 83, 155);
+}
+.descI {
+  font-size: 20px;
+}
+.btnI {
+  padding: 1rem 3rem;
+  border-radius: 35px;
+  color: aliceblue;
+  font-size: 20px;
+  width: fit-content;
+  height: fit-content;
+  background-color: rgb(0, 83, 155);
+}
+
+.leftI {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  flex: 1;
+}
+.cardsI {
+  width: 15rem;
+  height: 15rem;
+  background: aliceblue;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+  margin: 2rem;
+}
+.cardsImg{
+  position: absolute;
+  top: -20%;
+  left: 20%;
+}
+.cardsDecs{
+  position: absolute;
+  bottom: 20%;
+  left: 10%;
+}
+
+.doctors {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.headingDoc {
+  font-size: 50px;
+  font-style: bolder;
+  color: rgb(0, 83, 155);
+}
+.descDoc {
+  font-size: 20px;
+  text-align: center;
+}
+.docCards {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 3rem;
+  padding: 5rem;
+}
+.cardDoc {
+  width: 19rem;
+  height: 30rem;
+  background: aliceblue;
+  border-radius: 20px;
+  text-align: center;
+  position: relative;
+}
+.names{
+    width: 19rem;
+    background: rgb(0, 83, 155);
+    position: absolute;
+    color: aliceblue;
+    bottom: 0rem;
+    border-bottom-left-radius: 20px ;
+    border-bottom-right-radius: 20px ;
+}
+
+.reviews{
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 2rem;
+  overflow-x: hidden;
+
+}
+
+.reviewBox{
+  gap: 2rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.headingR{
+  font-size: 50px;
+  font-style: bolder;
+  color: rgb(0, 83, 155);
+}
+.reviewCard{
+  background: aliceblue;
+  padding: 2rem;
+  width: 40rem;
+  height: 25rem;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+
+.newsletter{
+  background: rgb(0, 83, 155);
+  padding: 5rem;
+  margin: 5rem;
+  border-radius: 20px;
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.headingN{
+  font-size: 50px;
+  font-style: bolder;
+}
+.inpN{
+  display: flex;
+  flex-direction: row;
+}
+.inpBox{
+  margin: 2rem;
+  padding: 2rem 2rem;
+  border-radius: 20px;
+}
+.inpBtn{  
+  margin: 2rem;
+  padding: 1rem 2rem;
+  border-radius: 20px;
+  color: rgb(0, 83, 155);
+  background-color: aliceblue;
+}
+
+.footer{
+  background: aliceblue;
+  padding: 10rem;
+  text-align: center;
+}
+.icon{
+  padding: 0.4rem;
+}

@@ -1,0 +1,2890 @@
+.hospital-landing-page-hospital-landing-page {
+  width: 100%;
+  height: 5653px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(248, 253, 255, 1);
+}
+.hospital-landing-page-group3 {
+  top: 0px;
+  left: 0px;
+  width: 1441px;
+  height: 5653px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.hospital-landing-page-group5 {
+  top: 5268px;
+  left: 0px;
+  width: 1440px;
+  height: 385px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(247, 251, 255, 1);
+}
+.hospital-landing-page-rectangle {
+  top: 144px;
+  left: 0px;
+  width: 1440px;
+  height: 241px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-text {
+  top: 5528px;
+  left: 121px;
+  color: rgba(102, 124, 148, 1);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 600;
+  line-height: 34px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-group26 {
+  top: 5461px;
+  left: 124px;
+  width: 51px;
+  height: 51px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-oval {
+  top: 0px;
+  left: 0px;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-facebook {
+  top: 17px;
+  left: 21.034780502319336px;
+  width: 9.000749588012695px;
+  height: 18px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-path {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 18px;
+  position: absolute;
+}
+.hospital-landing-page-group2-copy {
+  top: 5461px;
+  left: 184px;
+  width: 51px;
+  height: 51px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-oval01 {
+  top: 0px;
+  left: 0px;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-google4 {
+  top: 17px;
+  left: 17px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-path001 {
+  top: 3.523183584213257px;
+  left: 0px;
+  width: 5px;
+  height: 11px;
+  position: absolute;
+}
+.hospital-landing-page-path002 {
+  top: 13.111909866333008px;
+  left: 6.890625px;
+  width: 8px;
+  height: 5px;
+  position: absolute;
+}
+.hospital-landing-page-path003 {
+  top: 11.442550659179688px;
+  left: 1.8570586442947388px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.hospital-landing-page-path004 {
+  top: 6.937171936035156px;
+  left: 9px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.hospital-landing-page-path005 {
+  top: 0px;
+  left: 6.890625px;
+  width: 9px;
+  height: 6px;
+  position: absolute;
+}
+.hospital-landing-page-path006 {
+  top: 0px;
+  left: 1.8570234775543213px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.hospital-landing-page-group2-copy2 {
+  top: 5461px;
+  left: 244px;
+  width: 51px;
+  height: 51px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-oval02 {
+  top: 0px;
+  left: 0px;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-twitter1 {
+  top: 18px;
+  left: 17px;
+  width: 18px;
+  height: 14.625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-path007 {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 15px;
+  position: absolute;
+}
+.hospital-landing-page-text002 {
+  top: 5318px;
+  left: 121px;
+  color: rgba(0, 115, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text003 {
+  color: rgba(0, 115, 255, 1);
+}
+.hospital-landing-page-group2 {
+  top: 5318px;
+  left: 983px;
+  width: 336px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.hospital-landing-page-text005 {
+  left: 299px;
+  color: rgba(0, 115, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text007 {
+  left: 191px;
+  color: rgba(0, 115, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text009 {
+  left: 96px;
+  color: rgba(0, 115, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text011 {
+  color: rgba(0, 115, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text013 {
+  top: 999px;
+  left: 441px;
+  color: rgba(0, 59, 121, 1);
+  width: 559px;
+  height: auto;
+  position: absolute;
+  font-size: 54px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 78px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text015 {
+  top: 1111px;
+  left: 447px;
+  color: rgba(0, 35, 72, 1);
+  width: 546px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 39px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-rectangle01 {
+  top: 1258px;
+  left: 120px;
+  width: 273px;
+  height: 323px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-rectangle-copy {
+  top: 1258px;
+  left: 429px;
+  width: 273px;
+  height: 373px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-chevrondown4 {
+  top: 1566.5px;
+  left: 651.5px;
+  width: 7px;
+  height: 14px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-path-copy {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.hospital-landing-page-text017 {
+  top: 1528px;
+  left: 520px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-rectangle-copy3 {
+  top: 1258px;
+  left: 738px;
+  width: 273px;
+  height: 323px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-rectangle-copy5 {
+  top: 1258px;
+  left: 1047px;
+  width: 273px;
+  height: 323px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-text019 {
+  top: 1472px;
+  left: 192px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text021 {
+  top: 1483px;
+  left: 505px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text023 {
+  top: 1477px;
+  left: 806px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text025 {
+  top: 1477px;
+  color: rgba(0, 35, 72, 1);
+  right: 194px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-rectangle02 {
+  top: 1312px;
+  left: 182px;
+  width: 139px;
+  height: 139px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-tooth {
+  top: 1298.2801513671875px;
+  left: 164.0050048828125px;
+  width: 113.25347137451172px;
+  height: 127.43461608886719px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-shape {
+  top: 0px;
+  left: 0px;
+  width: 113px;
+  height: 127px;
+  position: absolute;
+}
+.hospital-landing-page-path008 {
+  top: 14.21484661102295px;
+  left: 11.79724407196045px;
+  width: 15px;
+  height: 19px;
+  position: absolute;
+}
+.hospital-landing-page-rectangle03 {
+  top: 14.167657852172852px;
+  left: 30.672819137573242px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  border-color: rgba(0, 125, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.hospital-landing-page-rectangle-copy2 {
+  top: 1322px;
+  left: 508px;
+  width: 139px;
+  height: 139px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-rectangle-copy4 {
+  top: 1292px;
+  left: 772px;
+  width: 139px;
+  height: 131px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-rectangle-copy6 {
+  top: 1292px;
+  left: 1081px;
+  width: 139px;
+  height: 139px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-oval03 {
+  top: 1797px;
+  left: 0px;
+  width: 1440px;
+  height: 1127px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.hospital-landing-page-mask {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1127px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-rectangle-copy17 {
+  top: 3930px;
+  left: 0px;
+  width: 1440px;
+  height: 600px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-rectangle-copy18 {
+  top: 4570px;
+  left: 0px;
+  width: 1440px;
+  height: 698px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-text027 {
+  top: 4010px;
+  left: 121px;
+  color: rgba(0, 59, 121, 1);
+  width: 597px;
+  height: auto;
+  position: absolute;
+  font-size: 54px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 78px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-oval-copy2 {
+  top: 2924px;
+  left: 0px;
+  width: 1440px;
+  height: 955px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(248, 253, 255, 1);
+}
+.hospital-landing-page-mask01 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 955px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-oval-copy21 {
+  top: -187px;
+  left: 1177px;
+  width: 442px;
+  height: 442px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 100px;
+}
+.hospital-landing-page-text029 {
+  top: 3088px;
+  left: 375px;
+  color: rgba(0, 59, 121, 1);
+  width: 691px;
+  height: auto;
+  position: absolute;
+  font-size: 54px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 78px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text031 {
+  top: 3200px;
+  left: 447px;
+  color: rgba(0, 35, 72, 1);
+  width: 546px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 39px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-rectangle-copy13 {
+  top: 3346px;
+  left: 120px;
+  width: 274px;
+  height: 448px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-bitmap {
+  top: 3346px;
+  left: 120px;
+  width: 274px;
+  height: 324px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(174, 211, 226, 1);
+}
+.hospital-landing-page-mask02 {
+  top: 0px;
+  left: 0px;
+  width: 274px;
+  height: 324px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px 20px 0 0;
+}
+.hospital-landing-page-text033 {
+  top: 3672px;
+  left: 182px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text035 {
+  top: 3705px;
+  left: 212px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-rectangle-copy131 {
+  top: 3346px;
+  left: 429px;
+  width: 274px;
+  height: 448px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-bitmap1 {
+  top: 3346px;
+  left: 429px;
+  width: 274px;
+  height: 324px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(174, 211, 226, 1);
+}
+.hospital-landing-page-mask03 {
+  top: 0px;
+  left: 0px;
+  width: 274px;
+  height: 324px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px 20px 0 0;
+}
+.hospital-landing-page-text037 {
+  top: 3671px;
+  left: 481px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text039 {
+  top: 3700px;
+  left: 526px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-rectangle-copy132 {
+  top: 3346px;
+  left: 738px;
+  width: 274px;
+  height: 448px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-bitmap2 {
+  top: 3346px;
+  left: 738px;
+  width: 274px;
+  height: 324px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(174, 211, 226, 1);
+}
+.hospital-landing-page-mask04 {
+  top: 0px;
+  left: 0px;
+  width: 274px;
+  height: 324px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px 20px 0 0;
+}
+.hospital-landing-page-text041 {
+  top: 3672px;
+  left: 770px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text043 {
+  top: 3705px;
+  left: 826px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-rectangle-copy133 {
+  top: 3346px;
+  left: 1047px;
+  width: 274px;
+  height: 448px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-bitmap3 {
+  top: 3346px;
+  left: 1047px;
+  width: 274px;
+  height: 324px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(174, 211, 226, 1);
+}
+.hospital-landing-page-mask05 {
+  top: 0px;
+  left: 0px;
+  width: 274px;
+  height: 324px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px 20px 0 0;
+}
+.hospital-landing-page-text045 {
+  top: 3673px;
+  color: rgba(0, 35, 72, 1);
+  right: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text047 {
+  top: 3704px;
+  left: 1145px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-group-copy3 {
+  top: 2498px;
+  left: 123px;
+  width: 186px;
+  height: 60px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.hospital-landing-page-rectangle04 {
+  top: 0px;
+  left: 0px;
+  width: 186px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 30px;
+}
+.hospital-landing-page-text049 {
+  top: 20px;
+  left: 54px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text051 {
+  top: 2264px;
+  left: 120px;
+  color: rgba(0, 59, 121, 1);
+  width: 559px;
+  height: auto;
+  position: absolute;
+  font-size: 54px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 78px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text053 {
+  top: 2376px;
+  left: 120px;
+  color: rgba(0, 35, 72, 1);
+  width: 546px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 39px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-rectangle-copy7 {
+  top: 2079px;
+  left: 724px;
+  width: 282px;
+  height: 236px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-rectangle-copy9 {
+  top: 2516px;
+  left: 724px;
+  width: 282px;
+  height: 242px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-rectangle-copy14 {
+  top: 4156px;
+  left: 121px;
+  width: 577px;
+  height: 294px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-group4 {
+  top: 4133px;
+  left: 634px;
+  width: 84px;
+  height: 89px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.hospital-landing-page-oval04 {
+  top: 4.995115432393504e-12px;
+  left: -4.618527782440651e-13px;
+  width: 83px;
+  height: 83px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-text055 {
+  top: 16.793893814086914px;
+  left: 31.572519302368164px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 59.114501953125px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text056 {
+  top: 4204px;
+  left: 189px;
+  color: rgba(0, 35, 72, 1);
+  width: 442px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 39px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text058 {
+  top: 4322px;
+  left: 270px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text060 {
+  top: 4355px;
+  left: 274px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-oval05 {
+  top: 4323px;
+  left: 192px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(151, 151, 151, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.hospital-landing-page-rectangle-copy141 {
+  top: 4156px;
+  left: 745px;
+  width: 577px;
+  height: 294px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-group-copy {
+  top: 4133px;
+  left: 1258px;
+  width: 84px;
+  height: 89px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.hospital-landing-page-oval06 {
+  top: 0px;
+  left: 0px;
+  width: 83px;
+  height: 83px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-text062 {
+  top: 16.793893814086914px;
+  left: 31.572519302368164px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 59.114501953125px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Helvetica;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text063 {
+  top: 4204px;
+  left: 813px;
+  color: rgba(0, 35, 72, 1);
+  width: 442px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 39px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text065 {
+  top: 4324px;
+  left: 893px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text067 {
+  top: 4356px;
+  left: 901px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-oval07 {
+  top: 4328px;
+  left: 814px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(151, 151, 151, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.hospital-landing-page-rectangle-copy11 {
+  top: 2280px;
+  left: 1037px;
+  width: 282px;
+  height: 242px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-text069 {
+  top: 2227px;
+  left: 777px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text071 {
+  top: 2658px;
+  left: 778px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text073 {
+  top: 2440px;
+  left: 1063px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-doctorwoman {
+  top: 1963px;
+  left: 749px;
+  width: 232px;
+  height: 232px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-mask06 {
+  top: 0px;
+  left: 0px;
+  width: 232px;
+  height: 232px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 116px;
+}
+.hospital-landing-page-doctorwoman1 {
+  top: 10px;
+  left: 57.009620666503906px;
+  width: 135.8596954345703px;
+  height: 443.43743896484375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-path009 {
+  top: 0px;
+  left: 22.14803695678711px;
+  width: 70px;
+  height: 86px;
+  position: absolute;
+}
+.hospital-landing-page-path010 {
+  top: 75.52838897705078px;
+  left: 39.641876220703125px;
+  width: 63px;
+  height: 131px;
+  position: absolute;
+}
+.hospital-landing-page-path011 {
+  top: 74.74409484863281px;
+  left: 0.16727003455162048px;
+  width: 63px;
+  height: 180px;
+  position: absolute;
+}
+.hospital-landing-page-path012 {
+  top: 74.28228759765625px;
+  left: 68.77408599853516px;
+  width: 46px;
+  height: 170px;
+  position: absolute;
+}
+.hospital-landing-page-path013 {
+  top: 80.58539581298828px;
+  left: 25.783512115478516px;
+  width: 35px;
+  height: 40px;
+  position: absolute;
+}
+.hospital-landing-page-path014 {
+  top: 76.078857421875px;
+  left: 77.41817474365234px;
+  width: 7px;
+  height: 46px;
+  position: absolute;
+}
+.hospital-landing-page-path015 {
+  top: 117.55696868896484px;
+  left: 34.46994400024414px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.hospital-landing-page-path016 {
+  top: 120.89009094238281px;
+  left: 37.784820556640625px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.hospital-landing-page-path017 {
+  top: 73.1934585571289px;
+  left: 36.48613739013672px;
+  width: 10px;
+  height: 45px;
+  position: absolute;
+}
+.hospital-landing-page-path018 {
+  top: 70.32015991210938px;
+  left: 67.13479614257812px;
+  width: 15px;
+  height: 27px;
+  position: absolute;
+}
+.hospital-landing-page-path019 {
+  top: 97.58598327636719px;
+  left: 73.88813018798828px;
+  width: 24px;
+  height: 38px;
+  position: absolute;
+}
+.hospital-landing-page-path020 {
+  top: 102.5434341430664px;
+  left: 29.818225860595703px;
+  width: 3px;
+  height: 51px;
+  position: absolute;
+}
+.hospital-landing-page-path021 {
+  top: 104.04359436035156px;
+  left: 25.075775146484375px;
+  width: 7px;
+  height: 9px;
+  position: absolute;
+}
+.hospital-landing-page-path022 {
+  top: 149.37515258789062px;
+  left: 21.658063888549805px;
+  width: 26px;
+  height: 6px;
+  position: absolute;
+}
+.hospital-landing-page-path023 {
+  top: 148.6371612548828px;
+  left: 22.976755142211914px;
+  width: 7px;
+  height: 5px;
+  position: absolute;
+}
+.hospital-landing-page-path024 {
+  top: 83.99100494384766px;
+  left: 0px;
+  width: 49px;
+  height: 102px;
+  position: absolute;
+}
+.hospital-landing-page-path025 {
+  top: 151.6919403076172px;
+  left: 37.44853591918945px;
+  width: 3px;
+  height: 30px;
+  position: absolute;
+}
+.hospital-landing-page-path026 {
+  top: 153.9602813720703px;
+  left: 41.26301193237305px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.hospital-landing-page-path027 {
+  top: 204.1371612548828px;
+  left: 18.984384536743164px;
+  width: 20px;
+  height: 26px;
+  position: absolute;
+}
+.hospital-landing-page-path028 {
+  top: 115.24642944335938px;
+  left: 49.51161193847656px;
+  width: 84px;
+  height: 85px;
+  position: absolute;
+}
+.hospital-landing-page-path029 {
+  top: 111.42876434326172px;
+  left: 86.40497589111328px;
+  width: 37px;
+  height: 10px;
+  position: absolute;
+}
+.hospital-landing-page-path030 {
+  top: 133.7259979248047px;
+  left: 47.101409912109375px;
+  width: 33px;
+  height: 39px;
+  position: absolute;
+}
+.hospital-landing-page-path031 {
+  top: 144.02174377441406px;
+  left: 70.09882354736328px;
+  width: 9px;
+  height: 7px;
+  position: absolute;
+}
+.hospital-landing-page-path032 {
+  top: 151.7645263671875px;
+  left: 68.574462890625px;
+  width: 12px;
+  height: 9px;
+  position: absolute;
+}
+.hospital-landing-page-path033 {
+  top: 133.042724609375px;
+  left: 127.37740325927734px;
+  width: 8px;
+  height: 21px;
+  position: absolute;
+}
+.hospital-landing-page-path034 {
+  top: 136.7628936767578px;
+  left: 119.39855194091797px;
+  width: 13px;
+  height: 22px;
+  position: absolute;
+}
+.hospital-landing-page-path035 {
+  top: 145.66708374023438px;
+  left: 116.295166015625px;
+  width: 15px;
+  height: 17px;
+  position: absolute;
+}
+.hospital-landing-page-path036 {
+  top: 158.76136779785156px;
+  left: 119.25863647460938px;
+  width: 8px;
+  height: 10px;
+  position: absolute;
+}
+.hospital-landing-page-path037 {
+  top: 142.4913330078125px;
+  left: 127.38329315185547px;
+  width: 5px;
+  height: 12px;
+  position: absolute;
+}
+.hospital-landing-page-path038 {
+  top: 146.57444763183594px;
+  left: 121.09833526611328px;
+  width: 10px;
+  height: 13px;
+  position: absolute;
+}
+.hospital-landing-page-path039 {
+  top: 10.283378601074219px;
+  left: 37.53076171875px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.hospital-landing-page-path040 {
+  top: 34.55622863769531px;
+  left: 58.563533782958984px;
+  width: 3px;
+  height: 6px;
+  position: absolute;
+}
+.hospital-landing-page-path041 {
+  top: 35.92452621459961px;
+  left: 77.20357513427734px;
+  width: 3px;
+  height: 5px;
+  position: absolute;
+}
+.hospital-landing-page-path042 {
+  top: 45.616451263427734px;
+  left: 41.260955810546875px;
+  width: 31px;
+  height: 38px;
+  position: absolute;
+}
+.hospital-landing-page-path043 {
+  top: 6.633931636810303px;
+  left: 35.57086944580078px;
+  width: 37px;
+  height: 29px;
+  position: absolute;
+}
+.hospital-landing-page-path044 {
+  top: 4.716777801513672px;
+  left: 67.60810089111328px;
+  width: 22px;
+  height: 19px;
+  position: absolute;
+}
+.hospital-landing-page-path045 {
+  top: 41.59769821166992px;
+  left: 50.8392219543457px;
+  width: 33px;
+  height: 21px;
+  position: absolute;
+}
+.hospital-landing-page-path046 {
+  top: 33.43307876586914px;
+  left: 46.846290588378906px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.hospital-landing-page-path047 {
+  top: 43.6801643371582px;
+  left: 38.915992736816406px;
+  width: 13px;
+  height: 15px;
+  position: absolute;
+}
+.hospital-landing-page-path048 {
+  top: 29.374168395996094px;
+  left: 33.29642868041992px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.hospital-landing-page-path049 {
+  top: 211.82550048828125px;
+  left: 62.71294021606445px;
+  width: 28px;
+  height: 1px;
+  position: absolute;
+}
+.hospital-landing-page-path050 {
+  top: 193.1702423095703px;
+  left: 3.098764657974243px;
+  width: 16px;
+  height: 62px;
+  position: absolute;
+}
+.hospital-landing-page-path051 {
+  top: 82.60577392578125px;
+  left: 94.32525634765625px;
+  width: 20px;
+  height: 23px;
+  position: absolute;
+}
+.hospital-landing-page-path052 {
+  top: 207.3673553466797px;
+  left: 110.68792724609375px;
+  width: 2px;
+  height: 35px;
+  position: absolute;
+}
+.hospital-landing-page-doctorwomancopy {
+  top: 2169px;
+  left: 1062px;
+  width: 232px;
+  height: 232px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-mask07 {
+  top: 0px;
+  left: 0px;
+  width: 232px;
+  height: 232px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 116px;
+}
+.hospital-landing-page-doctorman {
+  top: 10px;
+  left: -3px;
+  width: 238.94436645507812px;
+  height: 443.8773498535156px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-path053 {
+  top: 222.44154357910156px;
+  left: 105.6401138305664px;
+  width: 18px;
+  height: 64px;
+  position: absolute;
+}
+.hospital-landing-page-path054 {
+  top: 127.45195007324219px;
+  left: 168.6770782470703px;
+  width: 17px;
+  height: 22px;
+  position: absolute;
+}
+.hospital-landing-page-path055 {
+  top: 67.55055236816406px;
+  left: 69.55500030517578px;
+  width: 120px;
+  height: 151px;
+  position: absolute;
+}
+.hospital-landing-page-path056 {
+  top: 0px;
+  left: 85.8195571899414px;
+  width: 62px;
+  height: 54px;
+  position: absolute;
+}
+.hospital-landing-page-path057 {
+  top: 99.1272964477539px;
+  left: 103.43850708007812px;
+  width: 6px;
+  height: 20px;
+  position: absolute;
+}
+.hospital-landing-page-path058 {
+  top: 15.944058418273926px;
+  left: 93.1664047241211px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.hospital-landing-page-path059 {
+  top: 8.5856351852417px;
+  left: 92.02574920654297px;
+  width: 47px;
+  height: 25px;
+  position: absolute;
+}
+.hospital-landing-page-path060 {
+  top: 33.23273468017578px;
+  left: 99.0628662109375px;
+  width: 4px;
+  height: 7px;
+  position: absolute;
+}
+.hospital-landing-page-path061 {
+  top: 44.13181686401367px;
+  left: 114.44303131103516px;
+  width: 27px;
+  height: 31px;
+  position: absolute;
+}
+.hospital-landing-page-path062 {
+  top: 30.319120407104492px;
+  left: 114.90949249267578px;
+  width: 4px;
+  height: 7px;
+  position: absolute;
+}
+.hospital-landing-page-path063 {
+  top: 37.49469757080078px;
+  left: 105.02871704101562px;
+  width: 2px;
+  height: 14px;
+  position: absolute;
+}
+.hospital-landing-page-path064 {
+  top: 39.68403244018555px;
+  left: 94.35613250732422px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+.hospital-landing-page-path065 {
+  top: 92.11055755615234px;
+  left: 144.07308959960938px;
+  width: 46px;
+  height: 48px;
+  position: absolute;
+}
+.hospital-landing-page-path066 {
+  top: 107.3443374633789px;
+  left: 96.58455657958984px;
+  width: 89px;
+  height: 58px;
+  position: absolute;
+}
+.hospital-landing-page-path067 {
+  top: 120.19889831542969px;
+  left: 54.734859466552734px;
+  width: 71px;
+  height: 65px;
+  position: absolute;
+}
+.hospital-landing-page-path068 {
+  top: 134.9140167236328px;
+  left: 56.84739685058594px;
+  width: 29px;
+  height: 34px;
+  position: absolute;
+}
+.hospital-landing-page-path069 {
+  top: 129.88230895996094px;
+  left: 51.92477798461914px;
+  width: 12px;
+  height: 27px;
+  position: absolute;
+}
+.hospital-landing-page-path070 {
+  top: 142.02481079101562px;
+  left: 57.29071807861328px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.hospital-landing-page-path071 {
+  top: 137.56640625px;
+  left: 65.99900817871094px;
+  width: 10px;
+  height: 15px;
+  position: absolute;
+}
+.hospital-landing-page-path072 {
+  top: 143.85845947265625px;
+  left: 73.00856018066406px;
+  width: 9px;
+  height: 13px;
+  position: absolute;
+}
+.hospital-landing-page-path073 {
+  top: 102.32850646972656px;
+  left: 85.41592407226562px;
+  width: 1px;
+  height: 18px;
+  position: absolute;
+}
+.hospital-landing-page-path074 {
+  top: 117.1571273803711px;
+  left: 127.3678970336914px;
+  width: 21px;
+  height: 1px;
+  position: absolute;
+}
+.hospital-landing-page-path075 {
+  top: 68.55016326904297px;
+  left: 114.98140716552734px;
+  width: 27px;
+  height: 24px;
+  position: absolute;
+}
+.hospital-landing-page-path076 {
+  top: 27.96437644958496px;
+  left: 129.330322265625px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.hospital-landing-page-path077 {
+  top: 28.007568359375px;
+  left: 125.81635284423828px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.hospital-landing-page-path078 {
+  top: 45.3812141418457px;
+  left: 137.28431701660156px;
+  width: 4px;
+  height: 8px;
+  position: absolute;
+}
+.hospital-landing-page-path079 {
+  top: 98.72867584228516px;
+  left: 146.02938842773438px;
+  width: 12px;
+  height: 32px;
+  position: absolute;
+}
+.hospital-landing-page-path080 {
+  top: 49.631103515625px;
+  left: 95.05525207519531px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+.hospital-landing-page-doctorwomancopy2 {
+  top: 2406px;
+  left: 749px;
+  width: 232px;
+  height: 232px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-mask08 {
+  top: 0px;
+  left: 0px;
+  width: 232px;
+  height: 232px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 116px;
+}
+.hospital-landing-page-ambulance {
+  top: 45.15311813354492px;
+  left: 22px;
+  width: 188px;
+  height: 141.98831176757812px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-path081 {
+  top: 26.619991302490234px;
+  left: 0px;
+  width: 187px;
+  height: 97px;
+  position: absolute;
+}
+.hospital-landing-page-path082 {
+  top: 14.651883125305176px;
+  left: 13.572351455688477px;
+  width: 128px;
+  height: 15px;
+  position: absolute;
+}
+.hospital-landing-page-path083 {
+  top: 14.651883125305176px;
+  left: 98.91516876220703px;
+  width: 43px;
+  height: 15px;
+  position: absolute;
+}
+.hospital-landing-page-path084 {
+  top: 0px;
+  left: 95.98905181884766px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.hospital-landing-page-path085 {
+  top: 42.0470085144043px;
+  left: 1.3820937871932983px;
+  width: 79px;
+  height: 38px;
+  position: absolute;
+}
+.hospital-landing-page-path086 {
+  top: 42.0470085144043px;
+  left: 111.13847351074219px;
+  width: 63px;
+  height: 26px;
+  position: absolute;
+}
+.hospital-landing-page-path087 {
+  top: 42.0470085144043px;
+  left: 55.57529830932617px;
+  width: 44px;
+  height: 81px;
+  position: absolute;
+}
+.hospital-landing-page-path088 {
+  top: 53.07695388793945px;
+  left: 66.60487365722656px;
+  width: 22px;
+  height: 30px;
+  position: absolute;
+}
+.hospital-landing-page-oval08 {
+  top: 114.00999450683594px;
+  left: 2.662144899368286px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.hospital-landing-page-oval09 {
+  top: 115.97579193115234px;
+  left: 18.604412078857422px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+}
+.hospital-landing-page-oval10 {
+  top: 114.0550765991211px;
+  left: 112.50753784179688px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.hospital-landing-page-oval11 {
+  top: 116.0208740234375px;
+  left: 128.44981384277344px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+}
+.hospital-landing-page-path089 {
+  top: 91.18330383300781px;
+  left: 174.51724243164062px;
+  width: 13px;
+  height: 19px;
+  position: absolute;
+}
+.hospital-landing-page-path090 {
+  top: 51.040897369384766px;
+  left: 20.659805297851562px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.hospital-landing-page-path091 {
+  top: 75.0960922241211px;
+  left: 114.58489990234375px;
+  width: 10px;
+  height: 6px;
+  position: absolute;
+}
+.hospital-landing-page-humanbrain {
+  top: 1300.050537109375px;
+  left: 778px;
+  width: 128.000244140625px;
+  height: 121.89849853515625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-path092 {
+  top: 39.127750396728516px;
+  left: 16.374736785888672px;
+  width: 12px;
+  height: 17px;
+  position: absolute;
+}
+.hospital-landing-page-path093 {
+  top: 39.12750244140625px;
+  left: 76.71174621582031px;
+  width: 12px;
+  height: 17px;
+  position: absolute;
+}
+.hospital-landing-page-path094 {
+  top: 18.800312042236328px;
+  left: 33.92399978637695px;
+  width: 11px;
+  height: 15px;
+  position: absolute;
+}
+.hospital-landing-page-path095 {
+  top: 19.51106071472168px;
+  left: 60.43701934814453px;
+  width: 11px;
+  height: 15px;
+  position: absolute;
+}
+.hospital-landing-page-path096 {
+  top: 61.312782287597656px;
+  left: 33.92399978637695px;
+  width: 11px;
+  height: 15px;
+  position: absolute;
+}
+.hospital-landing-page-shape1 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 122px;
+  position: absolute;
+}
+.hospital-landing-page-shape2 {
+  top: 71.80699920654297px;
+  left: 78.27224731445312px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+.hospital-landing-page-path097 {
+  top: 47.4659538269043px;
+  left: 50.13689422607422px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.hospital-landing-page-medicalfile {
+  top: 1298px;
+  left: 1092.0477294921875px;
+  width: 95.40425109863281px;
+  height: 128px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-shape3 {
+  top: 0px;
+  left: 0px;
+  width: 95px;
+  height: 128px;
+  position: absolute;
+}
+.hospital-landing-page-path098 {
+  top: 70.46643829345703px;
+  left: 79.40636444091797px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.hospital-landing-page-shape4 {
+  top: 36.707000732421875px;
+  left: 21.536014556884766px;
+  width: 52px;
+  height: 45px;
+  position: absolute;
+}
+.hospital-landing-page-path099 {
+  top: 88.05850219726562px;
+  left: 23.155500411987305px;
+  width: 49px;
+  height: 5px;
+  position: absolute;
+}
+.hospital-landing-page-path100 {
+  top: 98.05850219726562px;
+  left: 23.155500411987305px;
+  width: 49px;
+  height: 5px;
+  position: absolute;
+}
+.hospital-landing-page-lungs1 {
+  top: 1304.075439453125px;
+  left: 468.9999084472656px;
+  width: 127.99617004394531px;
+  height: 114.34525299072266px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-shape5 {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 114px;
+  position: absolute;
+}
+.hospital-landing-page-path101 {
+  top: 75.46229553222656px;
+  left: 67.50394439697266px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.hospital-landing-page-oval-oval-copy-mask {
+  top: 0px;
+  left: 0px;
+  width: 1441px;
+  height: 953px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.hospital-landing-page-mask09 {
+  top: 0px;
+  left: 0px;
+  width: 1441px;
+  height: 953px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-oval12 {
+  top: -370px;
+  left: 875px;
+  width: 791px;
+  height: 791px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-oval-copy {
+  top: -238px;
+  left: -173px;
+  width: 482px;
+  height: 482px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 100px;
+}
+.hospital-landing-page-oval-copy3 {
+  top: 4568px;
+  left: 1123px;
+  width: 301px;
+  height: 301px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 50px;
+}
+.hospital-landing-page-rectangle-copy15 {
+  top: 4680px;
+  left: 121px;
+  width: 1198px;
+  height: 478px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 20px;
+}
+.hospital-landing-page-text075 {
+  top: 4724px;
+  left: 441px;
+  color: rgba(255, 255, 255, 1);
+  width: 559px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 78px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text077 {
+  top: 4814px;
+  left: 447px;
+  color: rgba(255, 255, 255, 1);
+  width: 546px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 39px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-rectangle-copy16 {
+  top: 4933px;
+  left: 298px;
+  width: 846px;
+  height: 120px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 10px;
+}
+.hospital-landing-page-group-copy4 {
+  top: 4956px;
+  left: 946px;
+  width: 176px;
+  height: 74px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.hospital-landing-page-rectangle05 {
+  top: 0px;
+  left: 0px;
+  width: 176px;
+  height: 74px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 37px;
+}
+.hospital-landing-page-text079 {
+  top: 27px;
+  left: 53px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text081 {
+  top: 4973px;
+  left: 334px;
+  color: rgba(155, 155, 155, 1);
+  width: 546px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 39px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-rectangle06 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 90px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+}
+.hospital-landing-page-text083 {
+  top: 40px;
+  left: 120px;
+  color: rgba(0, 115, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text084 {
+  color: rgba(0, 115, 255, 1);
+}
+.hospital-landing-page-group21 {
+  top: 40px;
+  left: 667px;
+  width: 336px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.hospital-landing-page-text086 {
+  left: 299px;
+  color: rgba(0, 115, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text088 {
+  left: 191px;
+  color: rgba(0, 115, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text090 {
+  left: 96px;
+  color: rgba(0, 115, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text092 {
+  color: rgba(0, 115, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-group {
+  top: 25px;
+  left: 1083px;
+  width: 170px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.hospital-landing-page-rectangle07 {
+  top: 0px;
+  left: 0px;
+  width: 170px;
+  height: 50px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 25px;
+}
+.hospital-landing-page-text094 {
+  top: 14px;
+  left: 57px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-group-copy {
+  top: 610px;
+  left: 120px;
+  width: 259px;
+  height: 60px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.hospital-landing-page-rectangle08 {
+  top: 0px;
+  left: 0px;
+  width: 259px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 30px;
+}
+.hospital-landing-page-text096 {
+  top: 20px;
+  left: 53px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-group-copy2 {
+  top: 610px;
+  left: 403px;
+  width: 259px;
+  height: 60px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.hospital-landing-page-rectangle09 {
+  top: 0px;
+  left: 0px;
+  width: 259px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(150, 150, 150, 1);
+  border-radius: 30px;
+}
+.hospital-landing-page-text098 {
+  top: 20px;
+  left: 83.5px;
+  color: rgba(0, 125, 242, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text100 {
+  top: 284px;
+  left: 120px;
+  color: rgba(0, 35, 72, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text102 {
+  top: 343px;
+  left: 120px;
+  color: rgba(0, 59, 121, 1);
+  width: 559px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  line-height: 78px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-text104 {
+  top: 444px;
+  left: 120px;
+  color: rgba(0, 35, 72, 1);
+  width: 546px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 39px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.hospital-landing-page-group29 {
+  top: 141px;
+  left: 745px;
+  width: 574px;
+  height: 672px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(235, 238, 255, 1);
+}
